@@ -1,0 +1,7 @@
+pwd to check the present working directory
+vi to create a file
+i to insert the data
+esc + : + wq exit from vi editer
+ls to list down files/folders in that pirticular path
+ls -a to list down hidden folders and all the content
+
